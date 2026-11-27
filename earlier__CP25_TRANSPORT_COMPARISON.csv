@@ -1,0 +1,7 @@
+component,grid_nx,grid_ny,phase_pc,dx_pc,avg_excess_x0,avg_excess_x_minus40,baseline_center_sample_x0,baseline_center_sample_x_minus40,avg_difference_x0,status
+core,48,96,70,10.0,0.20294470417561022,0.006768886786154947,0.21160066297626062,0.00942241873949745,-0.008655958800650398,completed actual hydrodynamic evolution; still under-resolved core for quantitative claim
+core,72,144,-70,6.666666666666667,-0.49966446147259647,6.37821971156667e-06,-0.5005800794266808,5.552465238904742e-06,0.0009156179540843468,completed actual hydrodynamic evolution; still under-resolved core for quantitative claim
+core,72,144,0,6.666666666666667,-0.4363076976860283,7.785853126311735e-05,-0.4369710213955738,7.073891443223295e-05,0.0006633237095455269,completed actual hydrodynamic evolution; still under-resolved core for quantitative claim
+core,72,144,70,6.666666666666667,0.2218255511461192,0.0015134949012036627,0.2236783515325623,0.0014776221524376528,-0.0018528003864430875,completed actual hydrodynamic evolution; still under-resolved core for quantitative claim
+core,96,192,70,5.0,0.22680898306582756,0.0005914972830999157,,,,completed actual hydrodynamic evolution; still under-resolved core for quantitative claim
+envelope,72,144,70,6.666666666666667,0.16504855379996575,0.0016407248139466953,0.16609691404302082,-0.0031458987001090153,-0.0010483602430550742,completed actual hydrodynamic evolution; still under-resolved core for quantitative claim

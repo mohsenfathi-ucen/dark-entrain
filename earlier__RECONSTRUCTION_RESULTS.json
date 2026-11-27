@@ -1,0 +1,49 @@
+{
+  "cases": {
+    "compact_DM0": {
+      "start": -18.0,
+      "target": 22.0,
+      "last": 22.0,
+      "complete": true,
+      "snapshots": 10
+    },
+    "compact_DM1": {
+      "start": -18.0,
+      "target": 22.0,
+      "last": 22.0,
+      "complete": true,
+      "snapshots": 10
+    },
+    "slow_DM0": {
+      "start": -50.0,
+      "target": 50.0,
+      "last": 50.0,
+      "complete": true,
+      "snapshots": 13
+    },
+    "slow_DM1": {
+      "start": -50.0,
+      "target": 50.0,
+      "last": 50.0,
+      "complete": true,
+      "snapshots": 13
+    }
+  },
+  "n_frames": 46,
+  "max_errors": {
+    "Bneg_all": 2.6645352591003757e-15,
+    "Bneg_near_40": 7.771561172376096e-16,
+    "T10_K": 3.162625716868206e-11,
+    "T50_K": 1.56106239046494e-10,
+    "T90_K": 1.2664827409025747e-08,
+    "Tmean_K": 9.001155376608949e-11,
+    "flux_-40": 5.995204332975845e-13,
+    "flux_0": 1.0919043447188415e-13,
+    "hill_proxy_40": 3.4867941867133823e-16,
+    "inventory_-40": 5.992428775414282e-13,
+    "inventory_0": 1.0902390101819037e-13,
+    "near_40": 5.551115123125783e-16
+  },
+  "max_budget_residual": 4.161290757776718e-15,
+  "max_mass_drift": 7.771561172376096e-16
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "dm": 0,
+    "time": 20,
+    "dt": 0.021615723607944233,
+    "max_outgoing_mass_fraction": 0.0641614978125149,
+    "min_new_tag": 0.0,
+    "min_new_complement": 0.635709297420471,
+    "normalized_budget_residual": 2.7834807371964697e-18,
+    "original_max_tag_excess": -0.6354237260076159,
+    "donor_max_tag_excess": -0.635709297420471
+  },
+  {
+    "dm": 1,
+    "time": 20,
+    "dt": 0.011984424214324496,
+    "max_outgoing_mass_fraction": 0.1483217606575755,
+    "min_new_tag": 0.0,
+    "min_new_complement": 0.14119789140372224,
+    "normalized_budget_residual": -3.697930938153158e-18,
+    "original_max_tag_excess": -0.1411934209281661,
+    "donor_max_tag_excess": -0.14119789140372224
+  },
+  {
+    "dm": 0,
+    "time": 50,
+    "dt": 0.021258830839591375,
+    "max_outgoing_mass_fraction": 0.06398002179528917,
+    "min_new_tag": 1.8270795381547928e-296,
+    "min_new_complement": 0.6700982425404347,
+    "normalized_budget_residual": 1.4993954350792872e-18,
+    "original_max_tag_excess": -0.6702490416626976,
+    "donor_max_tag_excess": -0.6700982425404347
+  },
+  {
+    "dm": 1,
+    "time": 50,
+    "dt": 0.014520884613903171,
+    "max_outgoing_mass_fraction": 0.11335374302374031,
+    "min_new_tag": 0.0,
+    "min_new_complement": 0.18692573495832904,
+    "normalized_budget_residual": -5.929690039499499e-19,
+    "original_max_tag_excess": -0.18691837218121649,
+    "donor_max_tag_excess": -0.18692573495832904
+  }
+]

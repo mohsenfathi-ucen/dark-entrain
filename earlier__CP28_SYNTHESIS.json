@@ -1,0 +1,66 @@
+{
+  "max_pair_reconstruction_error": 0.0,
+  "max_paired_inventory_budget_error": 9.992007221626409e-16,
+  "late": {
+    "70": {
+      "phase_pc": 70,
+      "t_Myr": 22.0,
+      "excess_flux_x-40": 7.893506337644777e-12,
+      "excess_inventory_x-40": 7.893506337644776e-12,
+      "excess_flux_x0": 0.24305904701055034,
+      "excess_inventory_x0": 0.2430590470105508,
+      "excess_flux_x40": -4.158199694494239e-16,
+      "excess_inventory_x40": -1.893340640334417e-16,
+      "delta_centroid_pc": -7.275945316235823,
+      "delta_guiding_proxy_pc": -141.86566857333312,
+      "inner_fraction_DM": 0.743082411684084,
+      "inner_fraction_control": 0.5000233646735331,
+      "outer40_fraction_DM": 4.440892098500626e-16
+    },
+    "-70": {
+      "phase_pc": -70,
+      "t_Myr": 22.0,
+      "excess_flux_x-40": 1.4417571181311125e-11,
+      "excess_inventory_x-40": 1.4417571181311125e-11,
+      "excess_flux_x0": -0.49963194558113,
+      "excess_inventory_x0": -0.49963194558112917,
+      "excess_flux_x40": -0.5449300146915061,
+      "excess_inventory_x40": -0.5449300146915053,
+      "delta_centroid_pc": 39.332420178743476,
+      "delta_guiding_proxy_pc": 190.2784100524196,
+      "inner_fraction_DM": 0.0003446897456114151,
+      "inner_fraction_control": 0.4999766353267406,
+      "outer40_fraction_DM": 0.5449300146915057
+    }
+  },
+  "positive_recovery_fraction": 0.743075136134547,
+  "late_phase_contrast_fraction": 0.7426909925916804,
+  "compression_fraction_fine": 0.9306777714299109,
+  "sign_change_bracket_Myr": [
+    18,
+    22
+  ],
+  "source": "Archived CP16/17/19/21/25/27 results; no new simulation",
+  "raw_state_moments": {
+    "70_0": {
+      "fraction_x_lt_0": 0.5000233646735331,
+      "mean_y_pc": 70.00415286099765,
+      "mass_in_display_fraction": 0.9999768877570769
+    },
+    "70_1": {
+      "fraction_x_lt_0": 0.7430824116840837,
+      "mean_y_pc": -19.060725786362532,
+      "mass_in_display_fraction": 0.9999996273413383
+    },
+    "-70_0": {
+      "fraction_x_lt_0": 0.49997663532674075,
+      "mean_y_pc": -70.00415286099695,
+      "mass_in_display_fraction": 0.9999768877570787
+    },
+    "-70_1": {
+      "fraction_x_lt_0": 0.0003446897456114092,
+      "mean_y_pc": -5.925566388730082,
+      "mass_in_display_fraction": 0.9999986259671044
+    }
+  }
+}

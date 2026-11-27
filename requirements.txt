@@ -1,0 +1,5 @@
+numpy>=1.22
+scipy>=1.8
+pandas>=1.4
+matplotlib>=3.6
+# Optional acceleration: numba (use a version compatible with your Python and NumPy).

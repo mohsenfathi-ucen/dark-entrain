@@ -1,0 +1,26 @@
+{
+  "frames": 42,
+  "max_fraction_difference": 2.220446049250313e-16,
+  "max_mass_drift": 4.440892098500626e-16,
+  "all_positive_density_pressure_and_bounded_tag": true,
+  "endpoint": [
+    {
+      "dm": 0,
+      "t": 50.0,
+      "inner": 0.001198421546378158,
+      "inner_far40": 0.001198421546378158,
+      "inner_positive_j": 0.0,
+      "inner_far40_positive_j": 0.0,
+      "inner_far_rt_positive_j": 0.0
+    },
+    {
+      "dm": 1,
+      "t": 50.0,
+      "inner": 0.9876873930683931,
+      "inner_far40": 0.9714995648152769,
+      "inner_positive_j": 0.9620944055906623,
+      "inner_far40_positive_j": 0.9502867824848538,
+      "inner_far_rt_positive_j": 0.6842271224412946
+    }
+  ]
+}

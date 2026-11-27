@@ -1,0 +1,13 @@
+{
+  "dm": 0,
+  "start": -50,
+  "end": 50,
+  "mesh": [
+    514,
+    208
+  ],
+  "initialization": "analytic cell averages",
+  "min_dx": 1.0,
+  "min_dy": 2.5,
+  "initial_mass": 76858.41056998898
+}
